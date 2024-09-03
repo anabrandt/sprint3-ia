@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+
+.container-voltar {
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 2%;
+}
+
+.voltar {
+  margin-left: 20%;
+  font-weight: 600;
+}
+
+.botao-voltar {
+  width: 50px;
+  height: 50px;
+  border: solid #f9c402;
+  border-radius: 50%;
+}
+
+.conteudo {
+  height: 650px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 400px;
+}
+
+.pag {
+  display: flex;
+  flex-direction: row;
+}
+
+.trilha-pagamento {
+  align-self: center;
+  margin-bottom: 80px;
+}
+
+.tela-pagamento {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 920px){
+  .container-voltar {
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 2%;
+    width: 100%;
+  }
+  .tela-pagamento {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .trilha-pagamento {
+   display: none;
+  }
+
+  .conteudo {
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    gap: 0px;
+  }
+}
