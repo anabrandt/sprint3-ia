@@ -2,12 +2,12 @@
 
 - Ana Carolina Tavares - RM552283
 - Gabriel Lopes Pereira - RM98023
-- Giovanni Paschoalatto - RM98486
+- Giovanni Paschoalatto - rm98837
 - Sofia Sprocatti - RM99208
 - Vinicius Minei - RM98486
 
 ## Link do pitch
-[Pitch](https://www.youtube.com/watch?v=cvNdVcVRNn8)
+[Pitch](https://www.youtube.com/watch?v=Dftv_DrgO88)
 
 Para adaptar a estrutura do projeto Doracorde ao uso de React e integração com a API Assistive e vLibras, aqui está uma versão atualizada do README e estrutura de diretórios:
 
