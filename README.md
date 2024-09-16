@@ -9,6 +9,9 @@
 ## Link do pitch
 [Pitch](https://www.youtube.com/watch?v=Dftv_DrgO88)
 
+## Link do github
+[GitHub](https://github.com/anabrandt/sprint3-ia)
+
 Para adaptar a estrutura do projeto Doracorde ao uso de React e integração com a API Assistive e vLibras, aqui está uma versão atualizada do README e estrutura de diretórios:
 
 
